@@ -1,4 +1,4 @@
-baseURL = 'https://metallion.cafe/'
+baseURL = 'https://cafe.metallion.net/'
 languageCode = 'en-us'
 title = "Metallion's Cafe"
 theme = 'cookbook'
